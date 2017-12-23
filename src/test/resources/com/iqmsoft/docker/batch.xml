@@ -1,0 +1,5 @@
+<orders batchId='A1234' date='05252014'>
+    <order id='X1124' customer='Test1' item='Rings' amount='4'/>
+    <order id='X1125' customer='Test2' item='Card Deck' amount='6'/>
+    <order id='X1126' customer='Test2' item='Top Hat' amount='1'/>
+</orders>
